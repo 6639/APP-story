@@ -1,17 +1,67 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+### Keybase proof
 
-# Custom for Visual Studio
-*.cs     diff=csharp
+I hereby claim:
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+  * I am 6639 on github.
+  * I am 6636 (https://keybase.io/6636) on keybase.
+  * I have a public key ASDtgRcWEAhV4vjLFpMZfIhII1yYQ08kRblD2aUHjEwdaAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ed811716100855e2f8cb1693197c8848235c98434f2445b943d9a5078c4c1d680a",
+      "host": "keybase.io",
+      "kid": "0120ed811716100855e2f8cb1693197c8848235c98434f2445b943d9a5078c4c1d680a",
+      "uid": "954446921d7cda37f7f285ffbd7df619",
+      "username": "6636"
+    },
+    "merkle_root": {
+      "ctime": 1568191031,
+      "hash": "abffb6955499cfbf0e11f41048bce3ed69e65943063940f814d05f6fd8f2425dc3cfde2a4cc02539804893e6d6ba82c0e4a61e6c3bafd065542f86d2e1a0416d",
+      "hash_meta": "4003a60952b09be926aaf2a80109c4526bc2959cc6ed6844df6e6bdfb2f99470",
+      "seqno": 6646806
+    },
+    "service": {
+      "entropy": "aXeY9bZARsgGoXOHFbjeVtNj",
+      "name": "github",
+      "username": "6639"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568191035,
+  "expire_in": 504576000,
+  "prev": "3ec4fcb11550893be23ed9eaac109e7ebbd9cde345466845ffbd3fdadf58c49b",
+  "seqno": 15,
+  "tag": "signature"
+}
+```
+
+with the key [ASDtgRcWEAhV4vjLFpMZfIhII1yYQ08kRblD2aUHjEwdaAo](https://keybase.io/6636), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7YEXFhAIVeL4yxaTGXyISCNcmENPJEW5Q9mlB4xMHWgKp3BheWxvYWTESpcCD8QgPsT8sRVQiTviPtnqrBCefrvZzeNFRmhF/70/2t9YxJvEINaJSUoRnkeYrrwsSnjUFBGVwownuZI1mFNW9w5BmDaaAgHCo3NpZ8RAwGobTk1fyzsBMPabUUFnkha9cXod/WFFk4RvIkuGhmzusq9nPSzVgYFU8T/wagxbOZL63kLwdn+kSls8kW1/CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINXOctADNNNIB+pJS0HcnYKeuQCWAu2crwAK9eJHUKt7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/6636
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id 6636
+```
